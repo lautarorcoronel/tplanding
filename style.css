@@ -1,0 +1,88 @@
+
+/* INICIO */
+
+video {
+    filter: opacity(88%);
+    transform: rotateY(180deg);
+    -webkit-transform: rotateY(180deg); /* Safari and Chrome */
+    -moz-transform: rotateY(180deg); /* Firefox */
+}
+
+#inicioh2 {
+color: #ffffff;
+-webkit-text-stroke: 1px rgb(12, 11, 11);
+
+}
+
+#leyenda {
+    -webkit-text-stroke: 1px rgb(12, 11, 11);
+}
+
+#spanh2 {
+color: #48cc8f;
+-webkit-text-stroke: 0.9px rgb(12, 11, 11);
+}
+
+#leyenda {
+    -webkit-text-stroke: 0.5px rgb(12, 11, 11);
+}
+
+#contenidoinicio {
+    margin-top: 8px;
+}
+
+
+/* Carousel */
+
+#h1t {
+    color: white;
+    -webkit-text-stroke: 0.5px rgb(12, 11, 11);
+    background-color: black;
+}
+
+#p1t {
+    color:rgb(255, 255, 255);
+    -webkit-text-stroke: 0.5px rgb(12, 11, 11);
+    background-color: black;
+}
+
+.carousel-inner {
+    height: 600px;
+}
+
+.carousel-item, .carousel-item img {
+    height: 600px;
+    object-fit: cover;
+    top: 0;
+    left: 0;
+    width:100%;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    height: 50px;
+    width: 50px;
+    outline: black;
+    background-color: rgba(255, 255, 255, 0);
+    border-radius: 50%;
+}
+
+
+/* Modificaciones */
+
+.home {
+    margin-top: 8px;
+}
+
+#divix {
+    margin-top: 55px;
+}
+
+#botono {
+    margin-top: 100px;
+}
+
+
+#espaciador {
+    margin-left: 142px;
+    margin-right: 142px;
+}
